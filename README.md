@@ -1,4 +1,4 @@
-# <p align="center"> Insert Title here </p>
+# <p align="center"> School of Medicine | University of St. Gallen </p>
 
 ## <p align="center"> Case Introduction: </p>
 
