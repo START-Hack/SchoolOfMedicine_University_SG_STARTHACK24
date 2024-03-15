@@ -18,7 +18,8 @@ The ideas is to make food tracking attractive for users, motivating them to enga
 
 ## <p align="center"> Deep Dive Slides: </p>
 
-<p align="center"> Insert Deep Dive Slides here </p>
+<p align="center"> [START Hack - Deep Dive 2024 HSG.pdf](https://github.com/START-Hack/SchoolOfMedicine_University_SG_STARTHACK24/files/14613201/START.Hack.-.Deep.Dive.2024.HSG.pdf) </p>
+
 
 ##  <p align="center"> Resources: </p>
 
