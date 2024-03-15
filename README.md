@@ -2,36 +2,64 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque dapibus, tortor in feugiat varius, sem purus aliquet quam, vel volutpat lorem nibh eu lacus. Donec massa ligula, auctor vitae erat eget, vulputate sagittis nisl. Praesent iaculis, lectus ut volutpat interdum, eros odio vestibulum eros, eget porta tellus lectus vitae massa. 
+In our hackathon project, our objective is to tackle the undeniable influence of nutrition on holistic health. Streamlining the management of individual nutrition stands as a pivotal goal, especially in reaching out to vulnerable communities in a preventive context. Presently, the manual tracking of food consumption imposes a considerable challenge on users. Thus, our endeavor is focused on crafting a solution that mitigates this challenge while efficiently contributing to preventive healthcare efforts.
 
-Morbi vitae diam at diam pellentesque tempor. Vivamus porttitor turpis quis felis accumsan, ut imperdiet dui tincidunt. Aenean a est dapibus, dictum velit at, eleifend erat. Proin ut faucibus dolor. Vestibulum pulvinar magna at consectetur posuere. Sed in dolor id enim tempus malesuada. Pellentesque nec dignissim erat, ut feugiat turpis.
+## <p align="center"> Expected Final Product: </p>
 
-## <p align="center"> The Pitch: </p>
+The project's objective is to create a robust image detection algorithm integrated within a mobile application framework. This algorithm will analyze food images captured via smartphone cameras, supplemented by LIDAR data if available, to generate comprehensive outputs including calorie count, fat content, protein content, carbohydrate content, and other relevant nutritional information. Emphasis will be placed on ensuring the accuracy of these predicted outputs.
 
-<p align="center"> Insert Pitchdeck here </p>
+In addition to developing the algorithm, participants are tasked with conceptualizing an app, encompassing strategic planning and initial visualizations, as well as outlining an implementation strategy to effectively reach the target demographic. The target population may vary and can be defined by the team, encompassing healthy individuals, those at risk, youth, seniors, or individuals with specific health conditions (excluding diabetes).
+
+Furthermore, elucidate how the app's design will prioritize user engagement, particularly over the long term. This entails detailing strategies to sustain user interest and involvement, potentially incorporating features such as personalized recommendations, interactive elements, gamification, and social connectivity to foster a lasting user-community relationship.
+
+## <p align="center"> Use Case: </p>
+
+The ideas is to make food tracking attractive for users, motivating them to engage with the app consistently over time. The ultimate goal is to improve health and health literacy, making users aware of how their dietary impacts their overall health.
 
 ## <p align="center"> Deep Dive Slides: </p>
 
 <p align="center"> Insert Deep Dive Slides here </p>
 
-## <p align="center"> Further Information: </p>
-
-Pellentesque vehicula nibh ut metus tempor, id finibus ligula auctor. Vivamus semper dui semper ante condimentum commodo. Sed eget odio ac odio rutrum viverra eget ut dui. Sed scelerisque sem sit amet auctor gravida. Curabitur auctor urna quis lacus tempus luctus. Phasellus dictum erat sit amet nulla commodo egestas. Suspendisse potenti. Duis quis justo ut quam mollis venenatis vel ut ipsum. Integer ornare, neque ut aliquam convallis, odio eros rutrum quam, non pharetra turpis nisl ac arcu. Fusce in nulla tempor, semper nisi eu, sollicitudin est.
-
 ##  <p align="center"> Resources: </p>
-- Lorem ipsum dolor sit amet
-- consectetur adipiscing elit
 
+- Google food data set (https://github.com/google-research-datasets/Nutrition5k/tree/main?tab=readme-ov-file#download-data) 
+- Participants are welcome to use any other publicly available datasets that provide food images and data.    
+- Have a look at our website to get a sense of what we are doing and trying to achieve https://www.c4dhi.org
+- use of python recommended
+
+## <p align="center"> Presentation: </p>
+
+Format:
+- 3-minute pitch followed by 5 min Q&A
+- Teams will have access to a TV screen
+- Be creative! You can also show app functionality live.
+
+Key Elements:
+- Demonstration of functionaly of solution
+- Presentation and explanation of outputs
+- Description of strategy and concept
+  
 
 ## <p align="center"> Judging Criteria: </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in sodales turpis. Donec euismod diam sit amet fermentum imperdiet. Donec justo mi, lacinia sed dolor vel, convallis tincidunt ligula. Duis suscipit ante tellus, lacinia venenatis lorem suscipit in. Sed ac ipsum tincidunt, consequat est ut, molestie nunc. Donec efficitur risus ut erat luctus, id congue odio rhoncus. Curabitur neque lorem, maximus at est sit amet, semper vehicula libero. Aliquam a fermentum leo. Mauris rhoncus lorem sed lorem auctor, eu tempus risus ultrices. Proin condimentum sem at commodo congue.
+- Innovation / Creativity (20%)
+  - How does the design creatively increase user engagement, and reduce user churn within the target population?
+- Product design (20%)
+  - Is the product design visually appealing?
+  - Does it promote user engagement?
+- Feasibility / Technical assessment (20%)
+  - Is the output accurate? How much do the predicted nutritional values vary from the ground truth?
+- Potential impact / Reachability (20%)
+  - What strategies does the team propose to design the solution to achieve maximum impact and usage for the target population? 
+- Presentation (20%)
+  - Communication of the developed solution
+
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Name, Name, or Name will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Nicolas Hesse, Victoria Brügger or Giuliana Breu will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
 
-### Prize Name
+### Either a 500.- voucher for a wearable (Apple Watch, Oura, Garmin) or a 500.- voucher for an overnight stay at a hotel + massage
