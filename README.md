@@ -60,7 +60,3 @@ Key Elements:
 
 <p align="center"> Nicolas Hesse, Victoria Brügger or Giuliana Breu will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
-
-## <p align="center"> Prize - the winning team members will each receive: </p>
-
-### Either a 500.- voucher for a wearable (Apple Watch, Oura, Garmin) or a 500.- voucher for an overnight stay at a hotel + massage
