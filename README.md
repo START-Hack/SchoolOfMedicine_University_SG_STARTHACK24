@@ -47,14 +47,13 @@ Key Elements:
 ## <p align="center"> Judging Criteria: </p>
 
 - Innovation / Creativity (20%)
-  - How does the design creatively increase user engagement, and reduce user churn within the target population?
+  -  How does the design creatively increase user engagement, especially in the long term?
 - Product design (20%)
   - Is the product design visually appealing?
-  - Does it promote user engagement?
 - Feasibility / Technical assessment (20%)
   - Is the output accurate? How much do the predicted nutritional values vary from the ground truth?
 - Potential impact / Reachability (20%)
-  - What strategies does the team propose to design the solution to achieve maximum impact and usage for the target population? 
+  - How do the team's strategies maximize ist impact on the target population?  
 - Presentation (20%)
   - Communication of the developed solution
 
