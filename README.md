@@ -33,7 +33,7 @@ The ideas is to make food tracking attractive for users, motivating them to enga
 ## <p align="center"> Presentation: </p>
 
 Format:
-- 3-minute pitch followed by 5 min Q&A
+- 5-minute pitch followed by 3 min Q&A
 - Teams will have access to a TV screen
 - Be creative! You can also show app functionality live.
 
