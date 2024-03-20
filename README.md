@@ -60,5 +60,5 @@ Key Elements:
 
 ## <p align="center"> Point of Contact: </p>
 
-<p align="center"> Nicolas Hesse, Victoria Brügger or Giuliana Breu will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
+<p align="center"> Nicolas Hesse, Marc Gruener or Giuliana Breu will be glad to answer your questions during the Deep Dive. We’ll also be available on Discord. </p>
 
