@@ -29,6 +29,7 @@ The ideas is to make food tracking attractive for users, motivating them to enga
 - Participants are welcome to use any other publicly available datasets that provide food images and data.    
 - Have a look at our website to get a sense of what we are doing and trying to achieve https://www.c4dhi.org
 - use of python recommended
+- Existing apps: january.ai, snack snap, Snaq, MyFitnessPal
 
 ## <p align="center"> Presentation: </p>
 
